@@ -2,7 +2,7 @@ package tema7_ejercicio1;
 
 class CuentaBancaria {
 	 protected int saldo = 0;
-
+//a
 	public void operar(int a) {
 		saldo += a;
 	}
